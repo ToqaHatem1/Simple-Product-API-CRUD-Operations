@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "edited product 1",
+    "desc": "This is product 1"
+  },
+  {
+    "id": 2,
+    "name": "product 2",
+    "desc": "This is product 2"
+  }
+]
